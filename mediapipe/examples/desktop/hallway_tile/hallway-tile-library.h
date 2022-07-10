@@ -18,8 +18,6 @@
 #define HALLWAYTILE_API DLL_EXPORT
 #endif
 
-#include <cstdlib>
-
 /* Call from outside of DLL */
 extern "C"
 {
